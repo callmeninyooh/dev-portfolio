@@ -3441,6 +3441,7 @@ img.u-pull-left {
   right: var(--gutter);
   bottom: var(--content-padding-bottom);
   left: auto;
+  padding-top: 5px;
 }
 
 .s-intro__content-bg::before {
