@@ -12,35 +12,11 @@ const html = {
     icon: "../../images/icons/skills/bootstrap.png",
     label: "Bootstrap",
   };
-  
-  const wpf = {
-    icon: "../../images/icons/skills/wpf.png",
-    label: "WPF",
-  };
-  
-  const winforms = {
-    icon: "../../images/icons/skills/winforms.png",
-    label: "WinForms",
-  };
+
   
   const csharp = {
     icon: "../../images/icons/skills/csharp.svg",
     label: "C#",
-  };
-  
-  const sqlServer = {
-    icon: "../../images/icons/skills/ms-sql-server.png",
-    label: "Microsoft Sql Server",
-  };
-  
-  const adoDotNet = {
-    icon: "../../images/icons/skills/ado-dotnet.png",
-    label: "ADO.NET",
-  };
-  
-  const wixToolset = {
-    icon: "../../images/icons/skills/wix-toolset.png",
-    label: "Wix Toolset",
   };
   
   const git = {
@@ -52,24 +28,26 @@ const html = {
     icon: "../../images/icons/skills/github.png",
     label: "GitHub",
   };
-  
-  const figma = {
-    icon: "../../images/icons/skills/figma.png",
-    label: "Figma",
+
+  const python = {
+    icon: "../../images/icons/skills/pngwing.com.png",
+    label: "Python",
   };
+
+  const javascript = {
+    icon: "../../images/icons/skills/pngegg.png",
+    label: "Javascript",
+  };
+
   
   export const skills = [
     csharp,
-    wpf,
-    winforms,
-    sqlServer,
-    adoDotNet,
-    wixToolset,
     html,
     css,
     bootstrap,
     git,
     github,
-    figma,
+    python,
+    javascript,
   ];
   
